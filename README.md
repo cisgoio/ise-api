@@ -1,10 +1,10 @@
 # ise
 
-# prime
+
 
 Cisco Identity Services Engine, ISE 2.7
 
-  Here, my REST-API Go Snippets for ISE :-)
+  Here, my REST-API Golang Snippets for ISE :-)
   
 Kind Regards,
 Scottie
